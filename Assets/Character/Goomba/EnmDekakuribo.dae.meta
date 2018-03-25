@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: b53aa2cbdea784742bfa6d762758fd42
+timeCreated: 1518407349
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BodyM
+    100002: BustN
+    100004: //RootNode
+    100006: HeadN
+    100008: HipN
+    100010: JawN
+    100012: LBrowJa
+    100014: LBrowJb
+    100016: LBrowJc
+    100018: LBrowN
+    100020: LFootJ
+    100022: LKneeJ
+    100024: LLegN
+    100026: LToeN
+    100028: MouthN
+    100030: NeckN
+    100032: polygon0
+    100034: polygon1
+    100036: polygon2
+    100038: polygon3
+    100040: polygon4
+    100042: polygon5
+    100044: RBrowJa
+    100046: RBrowJb
+    100048: RBrowJc
+    100050: RBrowN
+    100052: RFootJ
+    100054: RKneeJ
+    100056: RLegN
+    100058: RotN
+    100060: RToeN
+    100062: ThrowN
+    100064: TopN
+    100066: TransN
+    100068: XRotN
+    400000: BodyM
+    400002: BustN
+    400004: //RootNode
+    400006: HeadN
+    400008: HipN
+    400010: JawN
+    400012: LBrowJa
+    400014: LBrowJb
+    400016: LBrowJc
+    400018: LBrowN
+    400020: LFootJ
+    400022: LKneeJ
+    400024: LLegN
+    400026: LToeN
+    400028: MouthN
+    400030: NeckN
+    400032: polygon0
+    400034: polygon1
+    400036: polygon2
+    400038: polygon3
+    400040: polygon4
+    400042: polygon5
+    400044: RBrowJa
+    400046: RBrowJb
+    400048: RBrowJc
+    400050: RBrowN
+    400052: RFootJ
+    400054: RKneeJ
+    400056: RLegN
+    400058: RotN
+    400060: RToeN
+    400062: ThrowN
+    400064: TopN
+    400066: TransN
+    400068: XRotN
+    4300000: polygon0
+    4300002: polygon1
+    4300004: polygon2
+    4300006: polygon3
+    4300008: polygon4
+    4300010: polygon5
+    9500000: //RootNode
+    13700000: polygon0
+    13700002: polygon1
+    13700004: polygon2
+    13700006: polygon3
+    13700008: polygon4
+    13700010: polygon5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_Body
+    second: {fileID: 2100000, guid: 5fb7124e976637b46a1f7c6a827009fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_Head
+    second: {fileID: 2100000, guid: 770a6705a756a674aa149f6eb6f0c77f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_LEye
+    second: {fileID: 2100000, guid: 6fe352c0e7497d541862483bc5c4df2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_LEyeLid
+    second: {fileID: 2100000, guid: b3473295811d79646b87443ff3d82b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_REye
+    second: {fileID: 2100000, guid: 6fe352c0e7497d541862483bc5c4df2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmDekakuribo_REyeLid
+    second: {fileID: 2100000, guid: b3473295811d79646b87443ff3d82b2f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

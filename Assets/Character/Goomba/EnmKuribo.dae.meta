@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: cb525b83b88c052488cab12fcc1020df
+timeCreated: 1518407350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BodyM
+    100002: BustN
+    100004: Collision01N
+    100006: Collision02N
+    100008: Collision03N
+    100010: Collision04N
+    100012: Collision05N
+    100014: //RootNode
+    100016: HeadN
+    100018: HipN
+    100020: JawN
+    100022: LBrowJa
+    100024: LBrowJb
+    100026: LBrowJc
+    100028: LBrowN
+    100030: LFootJ
+    100032: LKneeJ
+    100034: LLegN
+    100036: LToeN
+    100038: MouthN
+    100040: NeckN
+    100042: polygon0
+    100044: polygon1
+    100046: polygon2
+    100048: polygon3
+    100050: polygon4
+    100052: polygon5
+    100054: RBrowJa
+    100056: RBrowJb
+    100058: RBrowJc
+    100060: RBrowN
+    100062: RFootJ
+    100064: RKneeJ
+    100066: RLegN
+    100068: RotN
+    100070: RToeN
+    100072: ThrowN
+    100074: TopN
+    100076: TransN
+    100078: XRotN
+    400000: BodyM
+    400002: BustN
+    400004: Collision01N
+    400006: Collision02N
+    400008: Collision03N
+    400010: Collision04N
+    400012: Collision05N
+    400014: //RootNode
+    400016: HeadN
+    400018: HipN
+    400020: JawN
+    400022: LBrowJa
+    400024: LBrowJb
+    400026: LBrowJc
+    400028: LBrowN
+    400030: LFootJ
+    400032: LKneeJ
+    400034: LLegN
+    400036: LToeN
+    400038: MouthN
+    400040: NeckN
+    400042: polygon0
+    400044: polygon1
+    400046: polygon2
+    400048: polygon3
+    400050: polygon4
+    400052: polygon5
+    400054: RBrowJa
+    400056: RBrowJb
+    400058: RBrowJc
+    400060: RBrowN
+    400062: RFootJ
+    400064: RKneeJ
+    400066: RLegN
+    400068: RotN
+    400070: RToeN
+    400072: ThrowN
+    400074: TopN
+    400076: TransN
+    400078: XRotN
+    4300000: polygon0
+    4300002: polygon1
+    4300004: polygon2
+    4300006: polygon3
+    4300008: polygon4
+    4300010: polygon5
+    9500000: //RootNode
+    13700000: polygon0
+    13700002: polygon1
+    13700004: polygon2
+    13700006: polygon3
+    13700008: polygon4
+    13700010: polygon5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_Body
+    second: {fileID: 2100000, guid: 7bd89076a24cff145987f292a866d7a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_Head
+    second: {fileID: 2100000, guid: 2602ab930d3c8f6439b13910a352ae34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_LEye
+    second: {fileID: 2100000, guid: b5633d226d7d20c4cb20c8af170b9b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_LEyeLid
+    second: {fileID: 2100000, guid: 9cc5225a0ce22e54ba12587bf9c3153c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_REye
+    second: {fileID: 2100000, guid: b5633d226d7d20c4cb20c8af170b9b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EnmKuribo_REyeLid
+    second: {fileID: 2100000, guid: 9cc5225a0ce22e54ba12587bf9c3153c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
